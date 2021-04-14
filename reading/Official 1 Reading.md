@@ -8,10 +8,10 @@
 | 4  | A         | D              | Sediment: 沉淀物|
 | 13 | B         | D              | Should read more carefully|
 | 14 | ABD       | ABC            | There're 3 major places for underground water: sediments, loose and and gravel or in cemented sediment and saturated rock|
-| 22 | A         | D              | |
-| 27 | C         | D              | |
-| 41 | B         | D              | |
-| 42 | BDF       | BCD            | |
+| 22 | A         | D              | Might because not reading the question carefully. It's look for **EXCEPT**|
+| 27 | C         | D              | Need to pay attention to this kind of questions |
+| 41 | B         | D              | Same as above|
+| 42 | BDF       | BCD            | Need to stick to the main points.|
 
 
 New words
