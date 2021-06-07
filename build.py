@@ -62,7 +62,7 @@ def generate_data(work_dir, build_dir):
 
     files = next(os.walk(os.path.join(work_dir, 'words')))[2]
     word_cnt = len(files)
-    progress_list.append({'type': 'words', 'percent': word_cnt * 100 / 94.0})
+    progress_list.append({'type': 'words', 'percent': word_cnt * 100 / 4 / 94.0})
 
     result = {}
     result['data'] = data_list
