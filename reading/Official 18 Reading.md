@@ -7,10 +7,13 @@
 
 | No | My Answer | Correct Answer | Why |
 |----|-----------|----------------|-----|
-|1| B| C| **impetus** 推动，促进，推动力。Stimulus： 促进，推动。通过**Desire**可以确定。|
-|6| A| B| high-priced commodities like spices had to be transported in large bulk ... means it cloud not be produced locally. |
-|27| D|B | **also** is the key word.|
-|32| B| D| **devastate** 毁灭.|
-|33| D|A | 答案有点牵强，但是D也确实有点模棱两可 | 
-
-
+|3| B | D| 第3段强调education|
+| 5|B |A |exceptional: 出色的，出众的。surprising：令人惊讶的. extraordinary: 非凡的，特别的.| 
+|14|ACD |CDE | A和第三段相反|  
+|18|B |C |跟实验有毛的关系，这里主要是针对improve alertness/raise physiological activity的观点 |
+|28|ABF |BDF |A完全不相关 | 
+|34| B| D|**EXCEPT**这么大的子，能不能好好看 |
+|36| C | A| **so even... it has received a lot of scientific attention.** 说的这么清楚.|
+|39| D |C| 排除法|
+| 42| ABF| BDF| A是错的，是同时形成的。|  
+ 
