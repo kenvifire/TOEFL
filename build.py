@@ -53,12 +53,12 @@ def generate_data(work_dir, build_dir):
     progress_list = []
     for dir in ['reading', 'listening']:
         data = read_dir(os.path.join(work_dir, dir))
-        progress_list.append({'type': dir, 'percent': len(data) * 100/58.0})
+        progress_list.append({'type': dir, 'percent': len(data) * 100/52.0})
 
         data_list += data
 
     for dir in ['writing', 'speaking']:
-        progress_list.append({'type': dir, 'percent': 0 * 100/58.0})
+        progress_list.append({'type': dir, 'percent': 0 * 100/52.0})
 
     files = next(os.walk(os.path.join(work_dir, 'words')))[2]
     word_cnt = len(files)
